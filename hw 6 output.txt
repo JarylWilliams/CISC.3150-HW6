@@ -1,0 +1,92 @@
+Microsoft Windows [Version 10.0.16299.309]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd Queen
+
+C:\Users\Jaryl\Desktop\Queen>cd src
+
+C:\Users\Jaryl\Desktop\Queen\src>javac Queen.java
+
+C:\Users\Jaryl\Desktop\Queen\src>java Queen
+Please enter the number of Queens:
+4
+Solution: 1
+ 0 0 1 0
+ 1 0 0 0
+ 0 0 0 1
+ 0 1 0 0
+Solution: 2
+ 0 1 0 0
+ 0 0 0 1
+ 1 0 0 0
+ 0 0 1 0
+The number of possible solutions are:2
+
+C:\Users\Jaryl\Desktop\Queen\src>java Queen
+Please enter the number of Queens:
+5
+Solution: 1
+ 1 0 0 0 0
+ 0 0 0 1 0
+ 0 1 0 0 0
+ 0 0 0 0 1
+ 0 0 1 0 0
+Solution: 2
+ 1 0 0 0 0
+ 0 0 1 0 0
+ 0 0 0 0 1
+ 0 1 0 0 0
+ 0 0 0 1 0
+Solution: 3
+ 0 0 1 0 0
+ 1 0 0 0 0
+ 0 0 0 1 0
+ 0 1 0 0 0
+ 0 0 0 0 1
+Solution: 4
+ 0 0 0 1 0
+ 1 0 0 0 0
+ 0 0 1 0 0
+ 0 0 0 0 1
+ 0 1 0 0 0
+Solution: 5
+ 0 1 0 0 0
+ 0 0 0 1 0
+ 1 0 0 0 0
+ 0 0 1 0 0
+ 0 0 0 0 1
+Solution: 6
+ 0 0 0 0 1
+ 0 0 1 0 0
+ 1 0 0 0 0
+ 0 0 0 1 0
+ 0 1 0 0 0
+Solution: 7
+ 0 1 0 0 0
+ 0 0 0 0 1
+ 0 0 1 0 0
+ 1 0 0 0 0
+ 0 0 0 1 0
+Solution: 8
+ 0 0 0 0 1
+ 0 1 0 0 0
+ 0 0 0 1 0
+ 1 0 0 0 0
+ 0 0 1 0 0
+Solution: 9
+ 0 0 0 1 0
+ 0 1 0 0 0
+ 0 0 0 0 1
+ 0 0 1 0 0
+ 1 0 0 0 0
+Solution: 10
+ 0 0 1 0 0
+ 0 0 0 0 1
+ 0 1 0 0 0
+ 0 0 0 1 0
+ 1 0 0 0 0
+The number of possible solutions are:10
+
+C:\Users\Jaryl\Desktop\Queen\src>
